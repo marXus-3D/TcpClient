@@ -1,0 +1,14 @@
+C:\Users\marcu\Documents\C#\TcpClient\bin\Debug\net8.0\TcpClient.exe
+C:\Users\marcu\Documents\C#\TcpClient\bin\Debug\net8.0\TcpClient.deps.json
+C:\Users\marcu\Documents\C#\TcpClient\bin\Debug\net8.0\TcpClient.runtimeconfig.json
+C:\Users\marcu\Documents\C#\TcpClient\bin\Debug\net8.0\TcpClient.dll
+C:\Users\marcu\Documents\C#\TcpClient\bin\Debug\net8.0\TcpClient.pdb
+C:\Users\marcu\Documents\C#\TcpClient\obj\Debug\net8.0\TcpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\C#\TcpClient\obj\Debug\net8.0\TcpClient.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\C#\TcpClient\obj\Debug\net8.0\TcpClient.AssemblyInfo.cs
+C:\Users\marcu\Documents\C#\TcpClient\obj\Debug\net8.0\TcpClient.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\C#\TcpClient\obj\Debug\net8.0\TcpClient.dll
+C:\Users\marcu\Documents\C#\TcpClient\obj\Debug\net8.0\refint\TcpClient.dll
+C:\Users\marcu\Documents\C#\TcpClient\obj\Debug\net8.0\TcpClient.pdb
+C:\Users\marcu\Documents\C#\TcpClient\obj\Debug\net8.0\TcpClient.genruntimeconfig.cache
+C:\Users\marcu\Documents\C#\TcpClient\obj\Debug\net8.0\ref\TcpClient.dll
